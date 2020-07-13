@@ -103,7 +103,7 @@ from randomness] framework. This similarity has the following options:
     Possible values: {lucene-core-javadoc}/org/apache/lucene/search/similarities/Normalization.NoNormalization.html[`no`],
     {lucene-core-javadoc}/org/apache/lucene/search/similarities/NormalizationH1.html[`h1`],
     {lucene-core-javadoc}/org/apache/lucene/search/similarities/NormalizationH2.html[`h2`],
-    {lucene-core-javadoc}/org/apache/lucene/search/similarities/NormalizationH1.html[`h3`] and
+    {lucene-core-javadoc}/org/apache/lucene/search/similarities/NormalizationH3.html[`h3`] and
     {lucene-core-javadoc}/org/apache/lucene/search/similarities/NormalizationZ.html[`z`].
 
 All options but the first option need a normalization value.
